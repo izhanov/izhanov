@@ -4,7 +4,7 @@
 - 📫 How to reach me [@aibekizhanov](https://t.me/aibekizhanov)
 
 
- ![](https://www.codewars.com/users/Aybek/badges/small)
+ ![](https://www.codewars.com/users/izhanov/badges/small)
 
 <!---
 izhanov/izhanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
