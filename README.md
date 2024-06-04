@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @izhanov
-- 👀 I’m interested in movies, art, weapon & boxing
-- 🌱 I’m currently learning how to code. Good code.
+- 👀 I’m interested in books, art, video games & boxing.
 - 📫 How to reach me [@aibekizhanov](https://t.me/aibekizhanov)
 
 
